@@ -14,15 +14,15 @@
 
 ## Contents
 
-1. [2026-10-07 — designed the full PCB with all 9 switches for may MacroPad. Its all working showing 0 Eroors so it is mostly finished I only have to sort the parts and hopfully get some funding to Order them. I uploa](#2026-10-07-designed-the-full-pcb-with-all-9-switches-for-may)
+1. [2026-10-07 — designed the full PCB with all 9 switches for may MacroPad. Its all working showing 0 Errors so it is mostly finished I only have to sort the parts and hopfully get some funding to Order them. I uploa](#2026-10-07-designed-the-full-pcb-with-all-9-switches-for-may)
 
 ## Design
 
-### 2026-10-07 — designed the full PCB with all 9 switches for may MacroPad. Its all working showing 0 Eroors so it is mostly finished I only have to sort the parts and hopfully get some funding to Order them. I uploa
+### 2026-10-07 — designed the full PCB with all 9 switches for may MacroPad. Its all working showing 0 Errors so it is mostly finished I only have to sort the parts and hopfully get some funding to Order them. I uploa
 
 **5h**
 
-designed the full PCB with all 9 switches for may MacroPad. Its all working showing 0 Eroors so it is mostly finished I only have to sort the parts and hopfully get some funding to Order them. I uploaded the Gerber Files for the PCB if someone wants to copy the Project.
+designed the full PCB with all 9 switches for may MacroPad. Its all working showing 0 Errors so it is mostly finished I only have to sort the parts and hopfully get some funding to Order them. I uploaded the Gerber Files for the PCB if someone wants to copy the Project. It took me a while because I had to learn the software first but now KiCAD is a great programm. Originaly wanted to include 12 keys and a small oled but that got to complecated and the wiring was to much, but im pretty shure you could just order this board because its mostly finished dont know waht i should to the othwe 6h
 
 ![Bild_2026-10-07_215532960](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/n6EsOtqp9SoMGZ3wuxeq2V9IZwm2OEhb/3f239d620031b0a7b41ae4866f70ae6ec8300902b9c9ed692fc687550df4e85e.png)
 
