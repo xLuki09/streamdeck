@@ -14,7 +14,7 @@ I designed the schematic and PCB in KiCad. I later changed the controller to the
 
 - **PCB design:** laid out in KiCad; the latest design check reported zero errors.
 - **Manufacturing:** not ordered yet. I am sorting out the parts and hoping to get funding for the order.
-- **Gerbers:** included in [`PCB/MacroBoard_v2.zip`](PCB/MacroBoard_v2.zip) for anyone who wants to inspect or reproduce the board. Please review the design and manufacturing files before ordering.
+- **Gerbers:** included in [`PCB/MacroBoardv3gerber.zip`](PCB/MacroBoardv3gerber.zip) for anyone who wants to inspect or reproduce the board. Please review the design and manufacturing files before ordering.
 - **Enclosure:** in progress and not finished yet.
 - **Firmware:** not available yet.
 
@@ -38,7 +38,7 @@ The current estimated parts list is available as [BOM.csv](BOM.csv) and [BOM.md]
 
 1. Open [`PCB/MacroBoard.kicad_sch`](PCB/MacroBoard.kicad_sch) or [`PCB/MacroBoard.kicad_pcb`](PCB/MacroBoard.kicad_pcb) in KiCad, then inspect the schematic and board layout.
 2. Review the design and BOM, and confirm that the footprints and parts match the parts you plan to buy.
-3. Use the Gerber and drill files in [`PCB/MacroBoard_v2.zip`](PCB/MacroBoard_v2.zip) to review or order the PCB.
+3. Use the Gerber and drill files in [`PCB/MacroBoardv3gerber.zip`](PCB/MacroBoardv3gerber.zip) to review or order the PCB.
 4. Source the components, assemble and solder the board, then add firmware when it is available.
 
 This project has not been assembled or tested as a working device yet. The Gerber archive is provided for reuse, but anyone reproducing the board should verify the files and design first.
