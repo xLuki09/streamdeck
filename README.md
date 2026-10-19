@@ -53,7 +53,7 @@ One problem I ran into was that the 3D model did not link to its footprint corre
 
 - [`PCB/MacroBoard.kicad_sch`](PCB/MacroBoard.kicad_sch) — schematic
 - [`PCB/MacroBoard.kicad_pcb`](PCB/MacroBoard.kicad_pcb) — PCB layout
-- [`PCB/MacroBoard_v2.zip`](PCB/MacroBoard_v2.zip) — Gerber and drill files
+- [`PCB/MacroBoardv3gerber.zip`](PCB/MacroBoardv3gerber.zip) — Gerber and drill files
 - [`BOM.csv`](BOM.csv) — spreadsheet-friendly parts list
 - [`BOM.md`](BOM.md) — formatted parts list
 - [`JOURNAL.md`](JOURNAL.md) — project development journal
