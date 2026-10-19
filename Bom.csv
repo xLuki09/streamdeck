@@ -1,0 +1,5 @@
+﻿ID;Bezeichner;Footprint;Stückzahl;Bezeichnung;Anbieter und Referenz;
+1;D1, D2, D3, D4, D5, D6, D7, D8, D9;D_DO-35_SOD27_P7.62mm_Horizontal;9;D;https://de.farnell.com/multicomp-pro/1n4148-do-35/kleinsignal-schaltdiode-100v-do/dp/2675146?srsltid=AU7gw4UPcVl8WvtlSA1KH94823s6lBjgauUH7XigGZefbHUOd1VGjU0r;
+2;SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9;SW_Cherry_MX_1.00u_PCB;9;SW_Push;https://www.reichelt.com/de/en/shop/product/cherry_mx_red_key_switch_snap_fastening-401643;
+3;SW10;RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm;1;RotaryEncoder_Switch;https://www.mouser.at/de/ProductDetail/Same-Sky/RIC11-31S20D5S-TH?qs=HoCaDK9Nz5eSYaSXLeou6g%3D%3D;
+4;U2;MODULE_XIAO_ESP32C3;1;XIAO_ESP32C3;https://www.tme.eu/en/details/seeed-113991054/development-kits-for-data-transmission/seeed-studio/xiao-esp32c3/?utm_source=oemsecrets.com&utm_medium=cpc&utm_campaign=compare-2026-10-17;
