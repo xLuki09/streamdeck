@@ -4,9 +4,9 @@
 <!-- Generated: 2026-10-08T13:50:36.005Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuuwjdkb0b7a01smd6ymym38). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Just a streamdeck with 12 keys a small oled screen a rotating knob an a 10 led strip at the top
+> Just a streamdeck with 9 cherry keys a rotary encoder and a small esp-32 usb-c board to controll everything. Used to skip enormus shortcuts.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
