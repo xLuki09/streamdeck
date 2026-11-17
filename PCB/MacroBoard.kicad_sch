@@ -1954,6 +1954,16 @@
 		(uuid "0cc9040f-2e66-4c97-bdef-b352737b8dd8")
 	)
 	(label "C0"
+		(at 128.27 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2577ab33-0328-4668-aff8-79b962884ac2")
+	)
+	(label "C2"
 		(at 128.27 43.18 0)
 		(effects
 			(font
@@ -1961,17 +1971,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "12a428c7-cab7-48d8-aacc-9030db7a6f79")
-	)
-	(label "B"
-		(at 163.83 40.64 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1ce32838-341a-4fab-b20d-7210404c3ffe")
+		(uuid "3c0fd6e7-0dc9-42d1-bf2b-c4f6d713aa3b")
 	)
 	(label "S1"
 		(at 163.83 45.72 0)
@@ -2033,6 +2033,16 @@
 		)
 		(uuid "8288e221-22e9-44a5-a6c6-83afc93897a2")
 	)
+	(label "B"
+		(at 163.83 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a292de4b-7b9c-418d-b784-aab49dc186af")
+	)
 	(label "A"
 		(at 25.4 105.41 0)
 		(effects
@@ -2063,6 +2073,16 @@
 		)
 		(uuid "c967c619-fc2e-46c9-9b57-3f34b315f44c")
 	)
+	(label "A"
+		(at 163.83 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d0693994-5ca9-47ac-9612-b0029ceb6c01")
+	)
 	(label "C0"
 		(at 52.07 50.8 0)
 		(effects
@@ -2092,26 +2112,6 @@
 			(justify left bottom)
 		)
 		(uuid "f7ff2c0c-f2eb-4133-b841-1fa2e929213a")
-	)
-	(label "C2"
-		(at 128.27 48.26 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fc85515e-7e59-4368-af7b-c9fcb1683d01")
-	)
-	(label "A"
-		(at 163.83 43.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fcc92083-5cfd-4aa6-9de7-3fad7ffcae08")
 	)
 	(symbol
 		(lib_id "power:GND")
