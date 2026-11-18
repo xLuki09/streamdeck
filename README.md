@@ -41,7 +41,7 @@ The table below lists the parts needed for one macro pad. Prices are estimates i
 | CHERRY MX Red key switch | 9 | €0.45 | €4.05 | [Reichelt](https://www.reichelt.com/de/de/shop/produkt/cherry_mx_red_-_tastenmodul_-_schnappbefestigung-401643) |
 | Same Sky RIC11-31S20D5S-TH rotary encoder with push switch | 1 | €2.46  | €2.46 | [Mouser](https://www.mouser.at/de/ProductDetail/Same-Sky/RIC11-31S20D5S-TH?qs=HoCaDK9Nz5eSYaSXLeou6g%3D%3D)] |
 | Custom PCB prototype | 1 | €5.00  | €5.00 | [PCBWay](https://www.pcbway.com/orderonline.aspx) |
-| **total** |  |  | **€18.89** | Excludes shipping |
+| **total** |  |  | **€18.85** | Excludes shipping |
 
 The full parts list is available as [BOM.md](BOM.md), with a spreadsheet-friendly copy in [BOM.csv](BOM.csv).
 ## Building from the files
