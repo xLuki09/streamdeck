@@ -7,8 +7,8 @@ This is the estimated parts list for one Streamdeck MacroPad, based on the compo
 | Seeed Studio XIAO ESP32-C3 | 1 | €6.53 | €6.53 | [TME](https://www.tme.eu/de/details/seeed-113991054/sets-zur-datenuebertragung/seeed-studio/xiao-esp32c3/) |
 | 1N4148 DO-35 diode | 9 | €0.09 | €0.81 | [Farnell](https://de.farnell.com/multicomp-pro/1n4148-do-35/kleinsignal-schaltdiode-100v-do/dp/2675146) |
 | CHERRY MX Red key switch | 9 | €0.45 | €4.05 | [Reichelt](https://www.reichelt.com/de/de/shop/produkt/cherry_mx_red_-_tastenmodul_-_schnappbefestigung-401643) |
-| Same Sky RIC11-31S20D5S-TH rotary encoder with push switch | 1 | €2.50 (estimate) | €2.50 | [Mouser](https://www.mouser.at/de/ProductDetail/Same-Sky/RIC11-31S20D5S-TH) |
-| Custom PCB prototype | 1 | €5.00 (estimate) | €5.00 | [PCBWay](https://www.pcbway.com/orderonline.aspx) |
-| **Estimated total** |  |  | **€18.89** | Excludes shipping and any taxes not included in supplier prices. |
+| Same Sky RIC11-31S20D5S-TH rotary encoder with push switch | 1 | €2.46 | €2.46 | [Mouser]([https://www.mouser.at/de/ProductDetail/Same-Sky/RIC11-31S20D5S-TH](https://www.mouser.at/de/ProductDetail/Same-Sky/RIC11-31S20D5S-TH?qs=HoCaDK9Nz5eSYaSXLeou6g%3D%3D) |
+| Custom PCB prototype | 1 | €5.00 | €5.00 | [PCBWay](https://www.pcbway.com/orderonline.aspx) |
+| **total** |  |  | **€18.89** | Excludes shipping and any taxes not included in supplier prices. |
 
 A spreadsheet-friendly copy is available as [`BOM.csv`](BOM.csv).
